@@ -30,7 +30,7 @@ class Account{
     }
 
     debit(amount) {
-        if (this.balance > amount) {
+        if (this.balance < amount) {
             return false;
         }
         this.balance -= amount;
