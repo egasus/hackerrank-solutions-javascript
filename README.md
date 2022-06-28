@@ -17,3 +17,8 @@ string||
 array||
 map||
 
+### Practice
+keywords|subkey|reference
+-|-|-
+lamda||cat-mouse
+
